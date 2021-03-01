@@ -1,0 +1,20 @@
+{
+   "name": "FRISTALAJYM", 
+   "logoURI": "https://coin.top/production/upload/logo/TYdZUsATdBx3fxKvDWikdEWzR5LCFWtqq3.jpeg", 
+   "timestamp": 1610339529000, #Update time in millisecond
+   "tokens": [{
+          
+           "chainId": 1,
+           "address": "TYdZUsATdBx3fxKvDWikdEWzR5LCFWtqq3",
+           "name": "FRISTALAJYM",
+           "symbol": "FAJ",
+           "decimals": 8,
+           "logoURI": "https://coin.top/production/upload/logo/TYdZUsATdBx3fxKvDWikdEWzR5LCFWtqq3.jpeg"
+       }
+   ],
+   "version": { #Version info
+       "major": 1, #Major version
+       "minor": 0, #Minor version
+       "patch": 0  #Patch version
+   }
+}
